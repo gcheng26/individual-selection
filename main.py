@@ -1,4 +1,4 @@
-from toolbox import Group, MigrantPool
+from toolbox import SmallGroup, MigrantPool
 
 
-my_class = Group()
+my_class = SmallGroup()
