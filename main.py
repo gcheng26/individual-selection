@@ -1,4 +1,4 @@
-from toolbox import SmallGroup, MigrantPool
+from toolbox import start_seq
 
+start_seq()
 
-my_class = SmallGroup()
